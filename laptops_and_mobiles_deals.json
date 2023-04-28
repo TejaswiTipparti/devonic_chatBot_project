@@ -1,0 +1,59 @@
+{
+    "data": [
+      {
+        "request": {
+          "brand": "Dell",
+          "max_price": 1500,
+          "min_ram": 8
+        },
+        "response": [
+          {
+            "website": "Amazon",
+            "product_name": "Dell Inspiron 15 7000",
+            "product_url": "https://www.amazon.com/Dell-Inspiron-15-7000-Laptop/dp/B09T46NKCJ/",
+            "product_price": 1399.99,
+            "product_ram": 16,
+            "product_description": "15.6 inch FHD 1080P touchscreen display, 11th Gen Intel Core i7, 512GB SSD, NVIDIA GeForce MX450, Windows 10 Home",
+            "product_rating": 4.5
+          },
+          {
+            "website": "Best Buy",
+            "product_name": "Dell XPS 13",
+            "product_url": "https://www.bestbuy.com/site/dell-xps-13-13-4-4k-ultra-hd-touchscreen-laptop-intel-evo-platform-core-i7-16gb-memory-512gb-ssd-platinum-silver-with-black-carbon-fiber/6450553.p?skuId=6450553",
+            "product_price": 1499.99,
+            "product_ram": 16,
+            "product_description": "13.4 inch 4K Ultra HD touchscreen display, 11th Gen Intel Core i7, 512GB SSD, Intel Iris Xe Graphics, Windows 10 Home",
+            "product_rating": 4.6
+          }
+        ]
+      },
+      {
+        "request": {
+          "brand": "Samsung",
+          "max_price": 1000,
+          "min_ram": 8
+        },
+        "response": [
+          {
+            "website": "Amazon",
+            "product_name": "Samsung Galaxy S21 5G",
+            "product_url": "https://www.amazon.com/Samsung-Unlocked-Smartphone-Pro-Grade-SM-G991UZVAXAA/dp/B08NWBYM6Y/",
+            "product_price": 799.99,
+            "product_ram": 8,
+            "product_description": "6.2 inch FHD+ AMOLED 120Hz display, 64MP triple camera, 128GB storage, Android 11, 4000mAh battery",
+            "product_rating": 4.7
+          },
+          {
+            "website": "Best Buy",
+            "product_name": "Samsung Galaxy Book Go",
+            "product_url": "https://www.bestbuy.com/site/samsung-galaxy-book-go-14-laptop-qualcomm-snapdragon-7c-compute-platform-8gb-memory-128gb-emmc-platinum-titan-gray/6576666.p?skuId=6576666",
+            "product_price": 749.99,
+            "product_ram": 8,
+            "product_description": "14 inch FHD display, Qualcomm Snapdragon 7c Compute Platform, 8GB RAM, 128GB eMMC storage, Windows 10 Home",
+            "product_rating": 4.5
+          }
+        ]
+      }
+    ]
+  }
+  
